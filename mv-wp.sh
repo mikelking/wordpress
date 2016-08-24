@@ -7,7 +7,6 @@ mv wordpress/wp-includes .
 mv wordpress/index.php .
 mv wordpress/license.txt .
 mv wordpress/readme.html .
-mv wordpress/remove-wp.sh .
 mv wordpress/wp-activate.php .
 mv wordpress/wp-blog-header.php .
 mv wordpress/wp-comments-post.php .
