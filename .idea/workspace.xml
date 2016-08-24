@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b46f9fc-ff56-49b6-8e52-228170aaffe3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mv-wp.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rm-wp.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-    </list>
+    <list default="true" id="1b46f9fc-ff56-49b6-8e52-228170aaffe3" name="Default" comment="" />
     <ignored path="wordpress.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -191,7 +187,7 @@
       <option name="presentableId" value="Default" />
       <updated>1472053005328</updated>
       <workItem from="1472053006520" duration="1001000" />
-      <workItem from="1472054031606" duration="1475000" />
+      <workItem from="1472054031606" duration="1547000" />
     </task>
     <task id="LOCAL-00001" summary="Added a readme.">
       <created>1472053230182</created>
@@ -204,7 +200,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2476000" />
+    <option name="totallyTimeSpent" value="2548000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="134" y="23" width="1124" height="773" extended-state="0" />
